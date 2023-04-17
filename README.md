@@ -6,12 +6,15 @@
 🔨Tech Stack
 
 📍 Languages
+
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
  📍Framework
+ 
  <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=DJANGO&logoColor=white"/> <img src="https://img.shields.io/badge/DJANGO REST FRAMEWORK-092E20?style=flat-square&logo=DJANGO REST FRAMEWORK&logoColor=white"/>
  
  📍Tools
+ 
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <!--
 **seoungjuyu/seoungjuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
