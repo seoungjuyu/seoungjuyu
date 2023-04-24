@@ -1,8 +1,8 @@
 ### Hello I'm seungju 👋
 ------
-📧 E-MAIL: 2seungju0@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2seungju0@gmail.com)](mailto:2seungju0@gmail.com)
 
-🗃️ <a href="https://velog.io/@ysj220"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://velog.io/@ysj220"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 -------
 🔨Tech Stack
 
@@ -16,7 +16,8 @@
  
  📍Tools
  
- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <!--
 **seoungjuyu/seoungjuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
